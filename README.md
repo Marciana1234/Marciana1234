@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil 💙
 
-<!--
-**Marciana1234/Marciana1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mariana Martins
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esses espaço para minha Organização e compartilhamento dos meus projetos
 
-Here are some ideas to get you started:
+### Você pode entrar em contato comigo 👍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001088403293sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/GNRDqkqzr2gAAAAC/beyonce-beyonc%C3%A9.gif)
+
